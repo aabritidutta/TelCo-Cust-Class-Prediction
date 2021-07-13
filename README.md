@@ -24,7 +24,4 @@ Performed a predictive analysis on the class of an unknown customer of telecom p
 - It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset.
 - KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much similar to the new data.
 
-
-Example: Suppose, we have an image of a creature that looks similar to cat and dog, but we want to know either it is a cat or dog. So for this identification, we can use the KNN algorithm, as it works on a similarity measure. Our KNN model will find the similar features of the new data set to the cats and dogs images and based on the most similar features it will put it in either cat or dog category.
-
-![image](https://user-images.githubusercontent.com/79006607/125520001-3cfd3188-6210-4065-8037-0af26fec9a6d.png)
+![image](https://user-images.githubusercontent.com/79006607/125520433-2f348063-2be2-4ee1-85e3-afef2a22348a.png)
